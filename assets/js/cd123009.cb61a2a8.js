@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjd_scratchified_docs=self.webpackChunkjd_scratchified_docs||[]).push([[2375],{1632:c=>{c.exports=JSON.parse('{"label":"facebook","permalink":"/JDScratchifiedDocs/blog/tags/facebook","allTagsPath":"/JDScratchifiedDocs/blog/tags","count":1,"unlisted":false}')}}]);

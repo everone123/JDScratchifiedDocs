@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjd_scratchified_docs=self.webpackChunkjd_scratchified_docs||[]).push([[5946],{5902:s=>{s.exports=JSON.parse('{"permalink":"/JDScratchifiedDocs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
