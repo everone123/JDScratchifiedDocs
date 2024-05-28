@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjd_scratchified_docs=self.webpackChunkjd_scratchified_docs||[]).push([[5361],{9658:e=>{e.exports=JSON.parse('{"permalink":"/JDScratchifiedDocs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

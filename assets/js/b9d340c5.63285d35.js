@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjd_scratchified_docs=self.webpackChunkjd_scratchified_docs||[]).push([[6639],{4719:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/JDScratchifiedDocs/blog/tags/docusaurus","allTagsPath":"/JDScratchifiedDocs/blog/tags","count":4,"unlisted":false}')}}]);
